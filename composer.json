@@ -1,0 +1,16 @@
+{
+    "name": "masqueradis/internship",
+    "description": "Mail sender implementation app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Masqueradis",
+            "email": "masqueradisu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
