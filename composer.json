@@ -2,6 +2,7 @@
     "name": "masqueradis/internship",
     "description": "Mail sender implementation app",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Masqueradis",
